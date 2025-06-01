@@ -1,0 +1,15 @@
+{
+  "heroInfo": [
+    {
+      "id": 1,
+      "title": "Welcome to the place where you will find the best pet sitters in Poland!",
+      "description": "PetCare was founded in 2025 as school project. We noticed from our own experience that we often lack access to a trusted pet sitter who will take care of our pet during our trips or busier days. We never wanted our dog to sit alone for long without a walk. We decided to create a place that would connect pet owners with caregivers who love animals and have free time to take care of them."
+    },
+    {
+      "id": 2,
+      "title": "PetCare gives you freedom of choice!",
+      "description": "Does your pet like to run after a ball all day and can't stand a moment in an apartment building? Or maybe he likes to sleep on the couch, be scratched behind the ear, sleep on your lap, or loves the company of other pets? Thanks to Petsy, you will find a carer who will provide him with all of this. We believe in freedom of choice and the possibility of sharing love for pets!",
+      "description_2": "We create a community of pet parents and caregivers, people who love animals unconditionally. We help them find themselves and support them in the care process." 
+    }
+  ]
+}

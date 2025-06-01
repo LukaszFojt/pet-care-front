@@ -1,0 +1,15 @@
+Aby zainstalować wpisz w terminalu: 
+	npm install
+
+oraz: 
+	npm install react-icons --save
+
+Aby uruchomić wpisz:
+	npx json-server --watch data/data.json --port 8000
+
+i wklej do przeglądarki endpoint (To prosta baza tylko do testów)
+
+oraz:
+	npm run start
+
+

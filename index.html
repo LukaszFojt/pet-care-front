@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./src/assets/shared-icons/SmallPawInCircle.png" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pet Care</title>
+  </head>
+  <body
+    class="light-theme">
+  
+    <div id="root">
+    </div>
+    <div class="loader-wrapper">
+      <div class="loader"><span class="loader-inner"></span></div>
+    </div>
+
+    <script defer>
+      $(window).on("load", function() {
+        $(".loader-wrapper").fadeOut("slow");
+      });
+    </script>
+
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

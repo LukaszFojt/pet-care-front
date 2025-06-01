@@ -1,0 +1,19 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "image": "https://hips.hearstapps.com/hmg-prod/images/chow-chow-portrait-royalty-free-image-1652926953.jpg?crop=0.44455xw:1xh;center,top&resize=980:*",
+            "title": "Fafik"
+        },
+        {
+            "id": 2,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Calico_tabby_cat_-_Savannah.jpg/330px-Calico_tabby_cat_-_Savannah.jpg",
+            "title": "Pimpek"
+        },
+        {
+            "id": 3,
+            "image": "https://images.immediate.co.uk/production/volatile/sites/63/2024/08/fotografka-uwiecznila-na-zdjeciach-aligatora-kanibala-w-akcji-to-nieczesty-widok-ef103fc.jpg?quality=90&webp=true&resize=960,640",
+            "title": "Puszek"
+        }
+    ]
+}

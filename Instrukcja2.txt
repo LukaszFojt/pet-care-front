@@ -1,0 +1,7 @@
+Odpal backend w Visual Studio
+Jeśli nie masz bazy to w Package Manager Console -> update-database
+
+Zainstaluj node_modules -> npm i
+Odpal front -> npm run dev
+
+tyle
